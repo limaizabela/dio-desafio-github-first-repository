@@ -1,0 +1,5 @@
+git status - mostra o status dos meus arquivos
+git add . -  adiciona o novo arquivo
+git commit -m "(mensagem)" - comita o novo arquivo
+git push origin main - empurra o novo arquivo para o meu repositório no GitHub
+
